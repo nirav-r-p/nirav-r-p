@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Jetpack Compose , Flutter**
 
-- 📫 How to reach me **prajapatinirav243@gmail.com**
+- 📫 How to reach me **niravprajapati29.dev@gmail.com**
 
 - 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1k4M31eCi2FjfPGv8uwUjI9cHvePGVufX/view?usp=sharing)
 
