@@ -4,7 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.SBQpX7qolPgrM3mC7Bj36AHaHa?pid=ImgDet&w=195&h=195&c=7&dpr=1.1" style="border-radius: 15px;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirav-r-p&label=Profile%20views&color=0e75b6&style=flat" alt="nirav-r-p" /> </p>
 
-- 🔭 I’m currently working on [eNote App](https://github.com/nirav-r-p/eNotes)
 
 - 🌱 I’m currently learning **Kotlin , Jetpack Compose and Node.js. Different App architecture**
 
@@ -12,7 +11,7 @@
 
 - 📫 How to reach me **niravprajapati29.dev@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1k4M31eCi2FjfPGv8uwUjI9cHvePGVufX/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1JcTbCxqsEC1SP7PraFY48N7UyiWhWLPL/view?usp=sharing)
 
 - ⚡  **I am always ready to learn new technology**
 
